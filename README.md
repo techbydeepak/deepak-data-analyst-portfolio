@@ -98,7 +98,7 @@ My focus areas include:
 
 ## 🌐 Portfolio Website
 
-**Live Portfolio:** [Add Vercel URL]
+**Live Portfolio:** [https://deepak-data-analyst-portfolio.vercel.app/]
 
 ---
 
