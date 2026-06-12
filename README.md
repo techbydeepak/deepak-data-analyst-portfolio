@@ -1,16 +1,110 @@
-# React + Vite
+# 📊 Deepak Rathour – Data Analyst Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Data Analyst Portfolio**, where I showcase hands-on projects in **SQL, Python, Power BI, and Excel** focused on **data analysis, dashboard development, exploratory data analysis (EDA), and business insights**.
 
-Currently, two official plugins are available:
+This portfolio highlights my practical experience in analyzing real-world datasets, cleaning data, identifying trends, building dashboards, and generating actionable insights.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am a **B.Tech Computer Science Engineering student** passionate about **Data Analytics and Business Intelligence**. I enjoy transforming raw data into meaningful insights using tools like **SQL, Python, Power BI, and Excel**.
 
-## Expanding the ESLint configuration
+My focus areas include:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Dashboard Development
+* Data Visualization
+* SQL Querying & Analysis
+* Business Insights Generation
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Querying
+
+* SQL
+* MySQL
+* Python
+
+### Python Libraries
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### BI & Dashboarding
+
+* Power BI
+* DAX (Basic)
+* Power Query
+
+### Excel
+
+* Pivot Tables
+* Pivot Charts
+* VLOOKUP
+* Conditional Formatting
+* Slicers
+* Dashboarding
+
+---
+
+## 📌 Featured Projects
+
+### 1. Customer Shopping Behavior Analysis Dashboard
+
+**Tech Used:** SQL, MySQL, Python, Power BI
+
+* Analyzed **3,900+ customer purchase records** across 18 attributes.
+* Performed **data cleaning, feature engineering, and SQL analysis**.
+* Used **Joins, CTEs, Window Functions, and Aggregations** for business insights.
+* Built a **Power BI dashboard** to visualize customer behavior and sales trends.
+
+---
+
+### 2. Diwali Sales Analysis
+
+**Tech Used:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+* Conducted **Exploratory Data Analysis (EDA)** on festive sales data.
+* Analyzed purchasing behavior based on **age, gender, occupation, and geography**.
+* Created visualizations to identify **top-performing states and customer trends**.
+
+---
+
+### 3. HR Analytics Dashboard
+
+**Tech Used:** Power BI, Power Query, DAX
+
+* Built an interactive dashboard analyzing **1,480 employee records**.
+* Tracked **attrition trends, salary distribution, and workforce demographics**.
+* Generated business insights to understand **employee retention patterns**.
+
+---
+
+### 4. Vrinda Store Sales Data Analysis
+
+**Tech Used:** Microsoft Excel
+
+* Analyzed **31,000+ sales records** using Excel.
+* Created **Pivot Tables, Pivot Charts, and an interactive dashboard**.
+* Identified customer behavior, sales trends, and top-performing channels.
+
+---
+
+## 🌐 Portfolio Website
+
+**Live Portfolio:** [Add Vercel URL]
+
+---
+
+## 📫 Contact
+
+**Deepak Rathour**
+📍 Bhopal, Madhya Pradesh, India
+📧 [deepakrathour05tech@gmail.com](mailto:deepakrathour05tech@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/deepak-rathour-8baa4b344/]
